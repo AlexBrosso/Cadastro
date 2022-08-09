@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="labelNome">Nome Completo</string>
+    <string name="labelTelefone">Telefone</string>
+    <string name="labelEmail">Email</string>
+    <string name="labelSexo">Sexo</string>
+    <string name="labelCidade">Cidade</string>
+    <string name="labelUf">UF</string>
+    <string-array name="uf">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Acre</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espirito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Paraná</item>
+        <item>Paraiba</item>
+        <item>Pará</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rio de Janeiro</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>Sergipe</item>
+        <item>São Paulo</item>
+        <item>Tocatins</item>
+    </string-array>
+    <string name="limparBt">Limpar</string>
+    <string name="salvarBt">Salvar</string>
+</resources>
